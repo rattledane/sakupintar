@@ -1,4 +1,4 @@
-# SakupPintar
+# SakuPintar
 
 SakupPintar adalah aplikasi sederhana untuk mencatat transaksi keuangan pribadi (pemasukan dan pengeluaran) dengan antarmuka yang bersih dan modern. Proyek ini dibangun menggunakan **HTML**, **CSS**, dan **JS**. Seluruh data disimpan di **localStorage**, sehingga tetap aman meskipun halaman direfresh.
 ## Fitur Utama
